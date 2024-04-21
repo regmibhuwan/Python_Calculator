@@ -1,5 +1,7 @@
 **calc_py**
+
 **Description**
+
 calc_py is a simple Python-based calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. This project aims to provide a straightforward utility for performing quick calculations while showcasing Python's capabilities in handling arithmetic tasks.
 
 **Features**
